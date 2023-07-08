@@ -66,4 +66,4 @@ bot.on("message", async message => {
 	}
 });
 
-bot.login(botSettings.token);
+bot.login(botSettings.MTEyNzM1NTA3OTAzMzM2MDQ1NA.GH92iF.Gb4_3KHr1crXWRuCnlE1FUk2h7p11PpMkETcJU);
